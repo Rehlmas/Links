@@ -1,4 +1,4 @@
-<h1 align="center"> Jovens Magnatas </h1>
+<h1 align="center"> DEV </h1>
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto DevLinks" src="assets/Cover.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
